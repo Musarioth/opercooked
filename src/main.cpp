@@ -1,4 +1,5 @@
 #include <stdio.h>
+// untuk functionnya nanti kusesuaikan kembali dengan yang telah dibuat. Ini hanya untuk sementara - Andreas
 
 void Add_Menu();
 void Cooking_Progress();
